@@ -12,8 +12,8 @@ mata kuliah Pengembangan Aplikasi Mobile.
 
 ## Screenshot
 
-## Platform Android
+### Platform Android
 ![Screenshot Aplikasi](screenshots/screenshot_android.png)
 
-## Platform Desktop
+### Platform Desktop
 ![Screenshot Aplikasi](screenshots/screenshot_desktop.png)
